@@ -5,17 +5,17 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>software.xdev</groupId>
-	<artifactId>standard-maven-template</artifactId>
+	<artifactId>testcontainers-java-junit4-mock</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>standard-maven-template</name>
-	<description>standard-maven-template</description>
-	<url>https://github.com/xdev-software/standard-maven-template</url>
+	<name>testcontainers-java-junit4-mock</name>
+	<description>testcontainers-java-junit4-mock</description>
+	<url>https://github.com/xdev-software/testcontainers-java-junit4-mock</url>
 
 	<scm>
-		<url>https://github.com/xdev-software/standard-maven-template</url>
-		<connection>scm:git:https://github.com/xdev-software/standard-maven-template.git</connection>
+		<url>https://github.com/xdev-software/testcontainers-java-junit4-mock</url>
+		<connection>scm:git:https://github.com/xdev-software/testcontainers-java-junit4-mock.git</connection>
 	</scm>
 
 	<inceptionYear>2023</inceptionYear>
