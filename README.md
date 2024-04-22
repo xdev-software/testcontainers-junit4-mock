@@ -4,10 +4,35 @@
 
 # testcontainers-java-junit4-mock
 
+Mocks the few JUnit 4 classes that testcontainers needs so that JUnit 4 can be excluded.
+
+Fixes/Works around [testcontainers-java#970](https://github.com/testcontainers/testcontainers-java/issues/970)
+
+## Usage
+
+_Note that you may need to insert the corresponding versions below_
+
+```xml
+<dependency>
+    <groupId>software.xdev</groupId>
+    <artifactId>testcontainers-java-junit4-mock</artifactId>
+</dependency>
+
+<dependency>
+    <groupId>org.testcontainers</groupId>
+    <artifactId>testcontainers</artifactId>
+    <exclusions>
+        <!-- No JUnit 4 -->
+        <exclusion>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+        </exclusion>
+    </exclusions>
+</dependency>
+```
 
 ## Installation
 [Installation guide for the latest release](https://github.com/xdev-software/testcontainers-java-junit4-mock/releases/latest#Installation)
-
 
 ## Support
 If you need support as soon as possible and you can't wait for any pull request, feel free to use [our support](https://xdev.software/en/services/support).
