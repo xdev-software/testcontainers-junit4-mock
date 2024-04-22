@@ -9,9 +9,6 @@ Mocks the few [JUnit 4](https://github.com/junit-team/junit4) classes that [test
 Fixes/Works around [testcontainers-java#970](https://github.com/testcontainers/testcontainers-java/issues/970)
 
 ## Usage
-
-_Note that you may need to insert the corresponding versions below_
-
 ```xml
 <dependency>
     <groupId>software.xdev</groupId>
@@ -30,6 +27,7 @@ _Note that you may need to insert the corresponding versions below_
     </exclusions>
 </dependency>
 ```
+_Please note that you may need to insert the corresponding versions_
 
 ## Installation
 [Installation guide for the latest release](https://github.com/xdev-software/testcontainers-java-junit4-mock/releases/latest#Installation)
