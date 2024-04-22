@@ -4,7 +4,7 @@
 
 # testcontainers-java-junit4-mock
 
-Mocks the few JUnit 4 classes that testcontainers needs so that JUnit 4 can be excluded.
+Mocks the few [JUnit 4](https://github.com/junit-team/junit4) classes that [testcontainers](https://github.com/testcontainers/testcontainers-java) needs so that JUnit 4 can be excluded.
 
 Fixes/Works around [testcontainers-java#970](https://github.com/testcontainers/testcontainers-java/issues/970)
 
