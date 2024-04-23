@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>software.xdev</groupId>
-	<artifactId>testcontainers-java-junit4-mock-root</artifactId>
+	<artifactId>testcontainers-junit4-mock-root</artifactId>
 	<version>1.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
@@ -15,8 +15,8 @@
 	</organization>
 
 	<modules>
-		<module>testcontainers-java-junit4-mock</module>
-		<module>testcontainers-java-junit4-mock-demo</module>
+		<module>testcontainers-junit4-mock</module>
+		<module>testcontainers-junit4-mock-demo</module>
 	</modules>
 
 	<licenses>
