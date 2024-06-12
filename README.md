@@ -1,5 +1,5 @@
 [![Latest version](https://img.shields.io/maven-central/v/software.xdev/testcontainers-junit4-mock?logo=apache%20maven)](https://mvnrepository.com/artifact/software.xdev/testcontainers-junit4-mock)
-[![Build](https://img.shields.io/github/actions/workflow/status/xdev-software/testcontainers-junit4-mock/checkBuild.yml?branch=develop)](https://github.com/xdev-software/testcontainers-junit4-mock/actions/workflows/checkBuild.yml?query=branch%3Adevelop)
+[![Build](https://img.shields.io/github/actions/workflow/status/xdev-software/testcontainers-junit4-mock/check-build.yml?branch=develop)](https://github.com/xdev-software/testcontainers-junit4-mock/actions/workflows/check-build.yml?query=branch%3Adevelop)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=xdev-software_testcontainers-junit4-mock&metric=alert_status)](https://sonarcloud.io/dashboard?id=xdev-software_testcontainers-junit4-mock)
 
 # JUnit4-Mock for Testcontainers Java
