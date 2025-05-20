@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<licensePluginReport goal="FORMAT" timestamp="1747732206664">
+    <module artifactId="testcontainers-junit4-mock" groupId="software.xdev" version="1.0.2"/>
+    <files>
+        <file path="src/main/java/org/junit/package-info.java" result="NOOP"/>
+        <file path="src/main/java/org/junit/rules/ExternalResource.java" result="NOOP"/>
+        <file path="src/main/java/org/junit/rules/TestRule.java" result="NOOP"/>
+        <file path="src/main/java/org/junit/runner/Description.java" result="NOOP"/>
+        <file path="src/main/java/org/junit/runners/model/Statement.java" result="NOOP"/>
+        <file path="src/test/java/software/xdev/testcontainers/junit4mock/MockTest.java" result="NOOP"/>
+    </files>
+</licensePluginReport>
