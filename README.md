@@ -1,6 +1,10 @@
 [![Latest version](https://img.shields.io/maven-central/v/software.xdev/testcontainers-junit4-mock?logo=apache%20maven)](https://mvnrepository.com/artifact/software.xdev/testcontainers-junit4-mock)
 [![Build](https://img.shields.io/github/actions/workflow/status/xdev-software/testcontainers-junit4-mock/check-build.yml?branch=develop)](https://github.com/xdev-software/testcontainers-junit4-mock/actions/workflows/check-build.yml?query=branch%3Adevelop)
 
+> [!NOTE]
+> The underlying problem was fixed in [Testcontainers v2](https://github.com/testcontainers/testcontainers-java/releases/tag/2.0.0).<br/>
+> This project is therefore no longer required and and can be removed.
+
 # JUnit4-Mock for Testcontainers Java
 
 Mocks the few [JUnit 4](https://github.com/junit-team/junit4) classes that [testcontainers](https://github.com/testcontainers/testcontainers-java) needs so that JUnit 4 can be excluded.
